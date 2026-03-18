@@ -61,3 +61,13 @@ body{
     transform: translateX(0);
 }
 
+.item:hover .itemblure{
+    background-color: rgba(255,255,255,.4);
+}
+.itemblure{
+    transition: .3s;
+}
+
+.itembtn{
+    transition: .3s;
+}

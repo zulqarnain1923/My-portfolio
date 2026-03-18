@@ -11,7 +11,6 @@ function sideMenu(type) {
     if (type) {
         console.log('helo')
         canvas.style.display = 'block'
-        
         side.style.transform = 'translateX(0px)'
         
     } else {
